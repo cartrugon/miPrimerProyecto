@@ -1,0 +1,1 @@
+Objetivo1: Dominar el ciclo completo del desarrollo web: comprender y ser capaz de construir tanto la parte visual de una aplicación (frontend) como la lógica del servidor y la gestión de datos (backend), integrando ambas en un flujo coherente y funcional.
