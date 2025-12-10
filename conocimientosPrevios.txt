@@ -1,0 +1,3 @@
+Conocimiento Previo1: habia estudiado en la carrera programacion utilizado C++
+
+Conocimiento Previo2: autodidacta en Python
