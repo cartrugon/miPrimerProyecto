@@ -1,1 +1,3 @@
 Objetivo1: Dominar el ciclo completo del desarrollo web: comprender y ser capaz de construir tanto la parte visual de una aplicación (frontend) como la lógica del servidor y la gestión de datos (backend), integrando ambas en un flujo coherente y funcional.
+
+Objetivo2: Construir un portafolio profesional: desarrollar varios proyectos completos durante el máster que sirvan como carta de presentación y demuestren habilidades técnicas y capacidad para resolver problemas reales.
